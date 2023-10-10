@@ -1,12 +1,12 @@
 # About Me
-My name is: Dhruv.
+My name is: Garrett.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: Dumplings.
 
 ## 
-My hobbies are: PC games, swimming, basketball.
+My hobbies are: Snowboarding, coding, and hanging with friends.
 
 ##
-My favorite artist/band is: Nirvana.
+My favorite artist/band is: Tame Impala.
 
